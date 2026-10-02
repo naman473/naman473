@@ -123,14 +123,14 @@
 # 🧰 Development Focus
 
 ```text
-Java              ████████████████████
-Spring Boot       ████████████████████
-React             ████████████████
-REST APIs         ████████████████████
-MySQL             ██████████████████
-Git & GitHub      █████████████████
-Docker             █████████████
-Kubernetes         ███████████
+Java              
+Spring Boot      
+React             
+REST APIs         
+MySQL             
+Git & GitHub      
+Docker             
+Kubernetes         
 ```
 
 ---
