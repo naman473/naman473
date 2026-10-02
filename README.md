@@ -150,5 +150,5 @@ I'm interested in Java development, full-stack web applications, backend enginee
 
 ⭐ Feel free to explore my repositories and connect with me!
 
-![Profile Views](https://komarev.com/ghpvc/?username=naman473\&label=Profile%20Views\&color=0e75b6\&style=flat)
+
 
