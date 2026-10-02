@@ -34,7 +34,7 @@
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=java,c,cpp,sql,js " height="50"/>
+<img src="https://skillicons.dev/icons?i=java,c,cpp,js " height="50"/>
 
 </td>
 
