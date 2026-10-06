@@ -10,7 +10,7 @@
 
 * 💻 I'm a **Java Full Stack Developer** focused on building scalable web applications.
 * 🔭 Currently working on **Java, Spring Boot, React and REST API development**.
-* 🌱 Improving my knowledge of **Spring Security, JWT, Docker, Kubernetes and CI/CD**.
+* 🌱 Improving my knowledge of ** JWT, Docker, Kubernetes and CI/CD**.
 * 👨‍💻 Interested in building real-world software products and solving practical problems.
 * 💬 Ask me about **Java, Spring Boot, React, REST APIs, Hibernate, MySQL and Git**.
 * 📫 Reach me at **[namanpatel473@gmail.com](mailto:namanpatel473@gmail.com)**
