@@ -129,8 +129,7 @@ React
 REST APIs         
 MySQL             
 Git & GitHub      
-Docker             
-Kubernetes         
+       
 ```
 
 ---
