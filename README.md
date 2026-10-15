@@ -70,8 +70,6 @@
 
 ### DevOps & Cloud
 
-### DevOps & Cloud
-
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,githubactions" height="50" alt="Docker, Kubernetes, AWS and GitHub Actions" />
 
 
