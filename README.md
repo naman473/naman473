@@ -52,7 +52,7 @@
 
 ### Backend
 
-<img src="https://skillicons.dev/icons?i=spring,hibernate,springboot," height="50"/>
+<img src="https://skillicons.dev/icons?i=spring,hibernate,springboot,SpringDataJPA" height="50"/>
 
 </td>
 
@@ -78,7 +78,7 @@
 
 ### Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,maven,vscode" height="50"/>
+<img src="https://skillicons.dev/icons?i=git,github,maven,vscode,eclipse" height="50"/>
 
 </td>
 </tr>
@@ -87,6 +87,15 @@
 ---
 
 # 🚀 Featured Projects
+
+### 🏨 KinStay — Hotel Management System
+
+**Spring Boot | Hibernate/JPA | MySQL | React**
+
+* Developed room and guest management functionality.
+* Implemented room availability and reservation workflows.
+* Built REST APIs for rooms, guests and bookings.
+* Added booking history and reservation status tracking.
 
 ### 🛒 Alpha Shop — E-Commerce Platform with AI Shopping Assistant
 
@@ -106,14 +115,6 @@
 * Built secure REST APIs for projects, bugs and comments.
 * Designed database relationships for users, projects, bugs and comments.
 
-### 🏨 KinStay — Hotel Management System
-
-**Spring Boot | Hibernate/JPA | MySQL**
-
-* Developed room and guest management functionality.
-* Implemented room availability and reservation workflows.
-* Built REST APIs for rooms, guests and bookings.
-* Added booking history and reservation status tracking.
 
 ---
 
