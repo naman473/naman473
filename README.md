@@ -70,7 +70,7 @@
 
 ### DevOps & Cloud
 
-<img src="https://skillicons.dev/icons?i= CI,CD,docker,kubernetes,aws" height="50"/>
+<img src="https://skillicons.dev/icons?i= ci,cd,docker,kubernetes,aws" height="50"/>
 
 </td>
 
